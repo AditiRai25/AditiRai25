@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aditi Rai 👋
 
-<!--
-**AditiRai25/AditiRai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. IT Student
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I am a B.Sc. IT student passionate about Artificial Intelligence, Data Analytics and Software Development. I enjoy learning new technologies and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python
+- SQL
+- Power BI
+- Tableau
+- Git & GitHub
+- PostgreSQL
+
+## 📚 Currently Learning
+- AI Tools
+- Data Analytics
+- Advanced Excel
+- Tableau
+
+## 🚀 Projects
+- Library Management System
+- Python Practice
+- SQL Practice
+- Forage Virtual Internship Projects
+
+## 🎯 Career Goal
+To become a skilled AI & Data Analytics Professional by building real-world projects and continuously improving my technical skills.
+
+---
+⭐ Thank you for visiting my profile!
