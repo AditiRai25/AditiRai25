@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="./file_00000000cc5c820b9481a36fc46f09b0.png" width="100%">
 </p>
 # Hi, I'm Aditi Rai 👋
 
