@@ -11,7 +11,6 @@ I am a B.Sc. IT student passionate about Artificial Intelligence, Data Analytics
 ## 💻 Skills
 - Python
 - SQL
-- Power BI
 - Tableau
 - Git & GitHub
 - PostgreSQL
